@@ -3,4 +3,6 @@
 - Khi làm xong hoặc hỏi lại người hỏi hãy phát ra âm thật lớn [Console]::Beep(4000, 500) 
 - AI AGENT không được tự ý dùng lệnh git khi chưa có sự cho phép của người dùng
 - Rõ Ràng & Ngắn Gọn (Clarity and Brevity)
+- KIỂM TRA KĨ TRƯỚC KHI BÁO CÁO HOÀN THÀNH (Xem kỹ toàn bộ thư mục, không bỏ sót)
+- LUÔN LẬP TODO TRƯỚC KHI LÀM VIỆC (Dùng TodoWrite ngay lập tức cho task non-trivial, double-check trước khi báo xong)
 ############################
